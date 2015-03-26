@@ -4,7 +4,7 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 
 ##Robotics
 
-* [Robot projects](robotfeak)
+* [Robot projects](robotfreak)
 
 ##Digitalfotografie
 
