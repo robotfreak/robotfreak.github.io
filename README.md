@@ -1,13 +1,13 @@
 # robotfreak.github.io
 
-Welcome to my GitHub repository. Here you will find 
+Welcome to my GitHub repository. Here you will find my sourcecode repositories about robotics, digital fotografie and other things I'm working on.
 
 ##Robotics
 
-* [Robot projects](robotfeak.github.io/robotfreak)
+* [Robot projects](robotfeak)
 
 ##Digitalfotografie
 
-* [Digitalfotografie projects](robotfeak.github.io/dfhacks)
+* [Digitalfotografie projects](dfhacks)
 
 ##Other
