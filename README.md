@@ -12,7 +12,7 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 ##Digital photografie
 
 * [Digitalfotografie projects](dfhacks)
-* [Neopixel Lightpainting](Neopixel-Lightpainting)
+* [Neopixel Lightpainter](Neopixel-Lightpainter)
 * [PTP 2.0 (fork)](PTP_2.0)
 * [Yongnuo RF603 hack](YongnuoRF)
 
