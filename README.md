@@ -9,7 +9,7 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 * [MURCS](MURCS)
 * [older Robot projects from google-code](robotfreak)
 
-##Digitalfotografie
+##Digital photografie
 
 * [Digitalfotografie projects](dfhacks)
 * [Neopixel Lightpainting](Neopixel-Lightpainting)
@@ -22,8 +22,6 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 
 ##Other
 
-###FezBridge
-
-*[FEZ-Bridge](FEZ-Bridge) Android Debug Bridge (ADB) implementation for .NETMF Devices like FEZ Domino.
+* [FEZ-Bridge](FEZ-Bridge) Android Debug Bridge (ADB) implementation for .NETMF Devices like FEZ Domino.
 
 
