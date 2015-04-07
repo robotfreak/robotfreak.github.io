@@ -9,9 +9,9 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 * [MURCS](MURCS)
 * [older Robot projects from google-code](robotfreak)
 
-##Digital photografie
+##Digital Photography
 
-* [Digitalfotografie projects](dfhacks)
+* [HAcks für die digitale Fotografie projects](dfhacks) Quellen zum gleichnamigen Buch
 * [Neopixel Lightpainter](Neopixel-Lightpainter)
 * [PTP 2.0 (fork)](PTP_2.0) with Bugfixes for newer Arduino IDEs
 * [Yongnuo RF603 hack](YongnuoRF)
