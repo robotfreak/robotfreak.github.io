@@ -7,7 +7,7 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 * [BoB Bipeds](BoB-Bipeds)
 * [IOIO Robots](IOIO-Robots)
 * [MURCS](MURCS)
-* [older Robot projects from google-code](robotfreak)
+* [older Robot projects migrated from Google Code](robotfreak)
 
 ##Digital Photography
 
