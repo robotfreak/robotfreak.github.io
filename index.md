@@ -11,7 +11,7 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 
 ##Digital Photography
 
-* [Hacks für die digitale Fotografie projects](dfhacks) Quellen zum gleichnamigen Buch
+* [Hacks für die digitale Fotografie](dfhacks) Quellen zum gleichnamigen Buch
 * [Neopixel Lightpainter](Neopixel-Lightpainter)
 * [PTP 2.0 (fork)](PTP_2.0) with Bugfixes for newer Arduino IDEs
 * [Yongnuo RF603 hack](YongnuoRF)
@@ -19,6 +19,7 @@ Welcome to my GitHub repository. Here you will find my sourcecode repositories a
 ##Tutorials
 
 * [IOIO-Tutorials](IOIO-Tutorials)
+* [NodeBots-Wiki](nodebots-wiki)
 
 ##Other
 
